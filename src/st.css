@@ -1,0 +1,41 @@
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+th{
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  td{
+    border: 1px solid black;
+    
+    border-collapse: collapse;
+  }
+  
+label{
+    color: black;
+}
+.divded {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  .all{
+      padding-left: 700px;
+      width: 800px;
+      height: 500px;
+  }
+  .gou{
+    width: 250px;
+  }
+  .bod{
+    width: 60%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  }
+  
